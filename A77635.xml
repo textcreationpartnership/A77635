@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schedule of the workes of the late reverend and learned Mr. Hugh Broughton as they were preparing for the presse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77635</idno>
+            <idno type="STC">Wing B4998</idno>
+            <idno type="STC">Thomason 669.f.15[13]</idno>
+            <idno type="STC">ESTC R211333</idno>
+            <idno type="EEBO-CITATION">99870063</idno>
+            <idno type="PROQUEST">99870063</idno>
+            <idno type="VID">163088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163088)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f15[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Schedule of the workes of the late reverend and learned Mr. Hugh Broughton as they were preparing for the presse.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Advertisement to the reader at head of text: This ensuing Catalogue presents it selfe to view with a double scope, ... to set forth in an entire work the scattered pieces of that famous Divine, Mr. Hugh Broughton, ...</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broughton, Hugh, 1549-1612 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice_to_the_reader">
+            <pb facs="tcp:163088:1" rendition="simple:additions"/>
+            <head>An Advertiſement to the Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His enſuing Catalogue preſents it ſelfe to view with a double ſcope, an intimation and a requeſt: The former gives to underſtand a purpoſe to ſet forth in an entire Work the ſcattered Pieces of that famous Divine, Mr. <hi>Hugh Brough<g ref="char:EOLhyphen"/>ton,</hi> a man rarely learned in the Originals, excellent in the cleare handling of darkeſt paſſages in the Holy Scripture, of cloſeſt meaning, eminent in his generation. It preſents what by carefull Wel-wiſhers to the truest knowledge and Publique good hath been preſerved in ſiniſter times from periſhing in obſcurity. This facilitates the requeſt; That if Pieces to perfect what is defective, or adde to the whole be in private hands, they will be pleaſed not to envy them to the Publick, and to light his Candle, which without their charge ſhall ſhine to themſelves brighter. Nor ſhall this candide goodneſſe be coucealed, that they may reap the good name of faithfull Treaſurers and liberall Stewards. Pleaſe they therefore to repair to <hi>Mr. George Thomaſon</hi> at the <hi>Roſe and Crowne</hi> in <hi>Pauls Churchyard London,</hi> they ſhall finde a fur<g ref="char:EOLhyphen"/>ther aſſurance not to fail of ſerious performance to anſwer their pious Expectations.</p>
+         </div>
+         <div type="list_of_works_to_be_published">
+            <head>A Schedule of the Workes of the late Reverend and learned Mr. <hi>Hugh Broughton</hi> as they were preparing for the Preſſe.</head>
+            <list>
+               <item>1 <seg rend="decorInit">A</seg> Concent of Scripture <hi>cum addita<g ref="char:EOLhyphen"/>mentis.</hi>
+               </item>
+               <item>2 <hi>Concentus Scripturae, Lat. Han.</hi> 1602.</item>
+               <item>
+                  <list>
+                     <head>Letters to Queen <hi>Elizabeth.</hi>
+                     </head>
+                     <item>2 Archb. <hi>C.</hi> and Dr. <hi>Elmer</hi> Bp. <hi>London.</hi>
+                     </item>
+                     <item>3 Vicech. and Heads of Houſes in <hi>Oxon.</hi>
+                     </item>
+                     <item>4 Queen <hi>Elizabeth Ms.</hi>
+                     </item>
+                     <item>5 Earle of <hi>Eſſex;</hi> the Monarchies.</item>
+                  </list>
+               </item>
+               <item>3 Texts of Scripture chaining Chronicle</item>
+               <item>4 A Defence of the conſent of the Scripture</item>
+               <item>5 An Apology to the L. Treaſurer touching his Speech uttered to his L. by the L. <hi>Cant.</hi>
+               </item>
+               <item>6 <hi>Seder Olam.</hi> 1613.</item>
+               <item>7 An Apology in brief aſſertions defending that our Lord dyed in the time foretold to <hi>Daniel</hi>
+               </item>
+               <item>8 A ſhort view of the <hi>Perſian</hi> Monarchy, 1590.</item>
+               <item>9 A Treatiſe upon divers points erroneouſly handled by Mr. <hi>Lucely, Ms.</hi>
+               </item>
+               <item>10 The chiefe Mark of all the holy Scripture</item>
+               <item>11 <hi>Broughton's</hi> laſt words, expreſſing upon hi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> death-bed the heads of the old Teſtament, <hi>Ms.</hi>
+               </item>
+               <item>12. Obſervations upon the firſt 10. Fathers 1612.</item>
+               <item>13 A Treatiſe of <hi>Melchiſedeck.</hi> 1591.</item>
+               <item>14 Of the 12 pretious ſtones in <hi>Aarons</hi> breaſt <hi>Ms.</hi>
+               </item>
+               <item>15
+<list>
+                     <item>
+                        <hi>Job. cum, additam.</hi>
+                     </item>
+                     <item>
+                        <hi>Eccleſiaſtes. cum additam.</hi>
+                     </item>
+                     <item>
+                        <hi>Proverbs</hi> cap. 5. <hi>cum additam.</hi>
+                     </item>
+                     <item>
+                        <hi>Canticles</hi> cap. 5. <hi>cum additam.</hi>
+                     </item>
+                     <item>
+                        <hi>Lamentations.</hi> 1610. <hi>cum additam.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>16 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>c.</hi> 5. <hi>reliqua deſiderantur</hi>
+               </item>
+               <item>17 A Comment upon <hi>Cobeleth.</hi> 1605. and A<g ref="char:EOLhyphen"/>bridgment <hi>Ang. Hebraice.</hi>
+               </item>
+               <item>18 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Graece imperfectum.</hi>
+               </item>
+               <item>19 <hi>Lamentations</hi> 1606.</item>
+               <item>20 <hi>Daniel</hi> his Chaldy viſions, with a Preface, <hi>Ms. &amp; additamentis, Ms. &amp; Adnotationibus, Ms.</hi>
+               </item>
+               <item>21 The Teſtimonies of ancient Writers, <hi>Ms.</hi>
+               </item>
+               <item>22 Poſitions touching 490 years <hi>Dan</hi> 9. <hi>Ms.</hi>
+               </item>
+               <item>23 A Requeſt to the Archb. of <hi>Cant.</hi> to call in a Corruption of a late Engliſh Commentation upon <hi>Daniel</hi> Ded. to the R. Ho<hi rend="sup">ble</hi>. Lords, <hi>Ms.</hi>
+               </item>
+               <item>24 A Letter to a friend touching <hi>Mordecai</hi>'s age.</item>
+               <item>25 A briefe Explication of the firſt Chapter of St. <hi>Matthews</hi> Goſpel, <hi>Ms.</hi>
+               </item>
+               <item>26 The holy Genealogie of Jeſus Chriſt.</item>
+               <item>27 Our Lords Family, 1608.</item>
+               <item>28 The defence of the holy Genealogies, <hi>Ms.</hi>
+               </item>
+               <item>29 An Expoſition upon the Lords Prayer.</item>
+               <item>30 A diſcourſe opening the Epiſt. of S. <hi>Jude,</hi> Ms.</item>
+               <item>31 A Revelation of the holy Apocalypſe.</item>
+               <item>32 An Epiſt. to the learned Nobility of <hi>England</hi>
+               </item>
+               <item>33 An Advertiſement of Corruption in our handling of Religion.</item>
+               <item>34 Principle poſitions for Grounds of the holy Bible, 1609. &amp;c.</item>
+               <item>35 A Treatiſe of the Apocripha.</item>
+               <item>36 A Cenſure of the late Tranſlations for our Churches,</item>
+               <item>37 A Require of Agreement.</item>
+               <item>38 Poſitions about the Hebrew Tongue, <hi>Ms.</hi>
+               </item>
+               <item>39 Of the Hebrew Particles, <hi>Ms.</hi>
+               </item>
+               <item>40 Advertiſements how to examine Tranſlati<g ref="char:EOLhyphen"/>ons, <hi>Ms.</hi>
+               </item>
+               <item>41 <hi>Miſcellanea,</hi> or a more ſpeedy Courſe for the ſtudy of <hi>Theologie,</hi> Ms.</item>
+               <item>42 Six Articles of Jewes about the Geneveans of traps laid to them: and of Papiſts offence by the <hi>Apocrypha, Ms.</hi>
+               </item>
+               <item>43 Certaine notes of divers Manuſcripts, <hi>Ms.</hi> Certaine Queſtions concerning
+<list>
+                     <item>Silk or Wool in the High-prieſts Ephod</item>
+                     <item>Idol Temples commonly called Churches</item>
+                     <item>The Forme of Prayer called the Lords Prayer.</item>
+                     <item>Excommunication,</item>
+                  </list>
+               </item>
+               <item>44 An Admoni<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion to <hi>Francis Blackwell</hi> of <hi>Am<g ref="char:EOLhyphen"/>ſte<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dam, Ms.</hi>
+               </item>
+               <item>45 An Epiſtle of an Hebrew willing to learne Chriſtianity, <hi>Bafil.</hi> 159. <hi>cum additamentis.</hi>
+               </item>
+               <item>46 <hi>Heb. Anglice partim, Ms. cum Reſponſione Am<g ref="char:EOLhyphen"/>ſterdam,</hi> 1606.</item>
+               <item>47 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Grace.</hi>
+               </item>
+               <item>48 A Commendation of <hi>Rabbi Rubens</hi> Original ſeeking Hebrew Goſpel from Albion, <hi>Ms.</hi>
+               </item>
+               <item>49 The family of <hi>David</hi> for the Sonnes of the kingdom, with a Chronicle unto the Redemp<g ref="char:EOLhyphen"/>tion, <hi>Heb. Angl.</hi> 1605. <hi>part. Ms.</hi>
+               </item>
+               <item>50 <hi>Epiſtolae variae &amp; variarum Linguarum de By<g ref="char:EOLhyphen"/>zantiacis Hebraeis diſcupientibus erudiri in Chriſti Domini Sacro volumine.</hi>
+               </item>
+               <item>51 A Petition to the King for authority and al<g ref="char:EOLhyphen"/>lowance to expound the <hi>Apocalyps</hi> in Hebrew and Greek, 1611.</item>
+               <item>52 <hi>Idem Graece, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> &amp;c.</hi>
+               </item>
+               <item>53 An Anſwer to the R: H<hi rend="sup">ble</hi>: the L: of the Q: of <hi>Englands</hi> moſt ho<hi rend="sup">ble</hi> privy Counſell, con<g ref="char:EOLhyphen"/>cerning the Hebrew Epiſtle, &amp;c.</item>
+               <item>54 A Petition to the Lords to examine the Reli<g ref="char:EOLhyphen"/>gion and carriage of Dr: <hi>Bancroft,</hi> A Bpp. 1608.</item>
+               <item>55 A Declaration unto the Lords of the Jewes deſire, &amp;c. hindred by a brace of wicked filly Doctors, 1611.</item>
+               <item>56 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</item>
+               <item>57 <hi>Querelae de quodam Scoparcha qui commemora<g ref="char:EOLhyphen"/>tionem premiſſorum R<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>galium Regis Mag: Brit: ad illuſtranda S. Biblia injurioſam &amp; mendacem fuiſſe praedicat, turbaſque movet,</hi> 1610.</item>
+               <item>58 <hi>Illuſtriſſimis Princip: Germaniae qui polliciti ſunt regifice ſtipendia, ut ex Talmudicis, Chananeo Ser<g ref="char:EOLhyphen"/>mone N.T: illuſtretur,</hi>
+               </item>
+               <item>59 <hi>Oratiuncula ad R<hi rend="sup">m</hi>: &amp; Illuſtr<hi rend="sup">m</hi>: Princ: ac Domi<g ref="char:EOLhyphen"/>num D: Jo: Adamum Archiepiſe: Megunt: de By<g ref="char:EOLhyphen"/>zantiacis Judaeis &amp; aliis cupientibus docere Chri<g ref="char:EOLhyphen"/>ſtianam Religionem, &amp;c. Ms. lat:</hi>
+               </item>
+               <item>60 To the Metropolitan next in <hi>England</hi> to the Queen, exalted may be her Majeſty, <hi>Ms.</hi>
+               </item>
+               <item>61 To the mighty Prince <hi>James</hi> by the Grace of God, &amp;c. <hi>Epiſtola Ang:</hi> with a motion to the clearing the holy Apocalyps, <hi>Ms.</hi>
+                  <list>
+                     <item>A Petition to the ſame purpoſe, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </item>
+                     <item>
+                        <hi>Idem Anglice,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>62 An Explication of the Article <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1605.</item>
+               <item>63 A Diſcourſe of the Article of Deſcent to Hell to Sir <hi>Tho: Chaloner, Ms.</hi>
+               </item>
+               <item>64 To the moſt Reverend F: <hi>Jo:</hi> Archb:of <hi>Cant:</hi> of an anſwer to <hi>Beza,</hi>
+               </item>
+               <item>65 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Mogunt.</hi> 1601.</item>
+               <item>66 <hi>Idem Anglice. Ms.</hi>
+               </item>
+               <item>67 Two little Works defenſive of our Redemp<g ref="char:EOLhyphen"/>tion, That our Lord went through the Vale of his fleſh to Heaven to appeare before God for us,</item>
+               <item>68 Four poſitions of the Word <hi>Hades,</hi> 1605</item>
+               <item>69 A reply upon the R: R: F: <hi>Tho: Winton</hi> for heads of his Divinity in his Sermon and Sur<g ref="char:EOLhyphen"/>vey 1605.</item>
+               <item>70 A Syllogiſm from Archb. <hi>Whitegift</hi> and Biſh: <hi>Tho:Winton,</hi> concluding that to deſcend into Hell in the Creed, is to goe up into Paradiſe <hi>Ms.</hi>
+               </item>
+               <item>71 Poſitions of a man learned, but by boldneſſe a confuter of himſelfe, Who made <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the Godly, to meane a paſſage into heaven, <hi>Ms.</hi>
+               </item>
+               <item>72 What help Greeke Authors afford for ex<g ref="char:EOLhyphen"/>pounding of <hi>Hades, Ms.</hi>
+               </item>
+               <item>73 Articles of friendly warning to the R: R: F: <hi>D F:</hi> Bil: L:<hi>Winton, Ms.</hi>
+               </item>
+               <item>74 A Petition to the Lord Chancellors of both Univerſities &amp;c. to help Reformation of Er<g ref="char:EOLhyphen"/>rours by not knowing what <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the creed meaneth. A going up to para<g ref="char:EOLhyphen"/>diſe is no going to Gehenna &amp;c.</item>
+               <item>75 Of the ſame ſubject to ſeverall Princes and Senats, <hi>Lat:</hi>
+               </item>
+               <item>76 An Anſwer to the injurious complaint of <hi>R:C:</hi> thinking he was called ſimply Athean, Jew, Villaine, &amp;c. where he was only warned how he gave a Jew leave to make him ſo,</item>
+               <item>77 The Right Ho<hi rend="sup">ble</hi>: <hi>Rich:</hi> Archb: of <hi>Cant.</hi>
+               </item>
+               <item>78 An Anſwer about Hell Torments to Obje<g ref="char:EOLhyphen"/>ctions, &amp;c. <hi>Ms.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
